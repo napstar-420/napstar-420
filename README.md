@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from Pakistan <img width="20" alt="pak flag" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1f5-1f1f0.svg"/></h3>
 
 <p align="left"> <a href="https://twitter.com/zohaib_billa" target="blank"><img src="https://img.shields.io/twitter/follow/zohaib_billa?logo=twitter&style=for-the-badge" alt="zohaib_billa" /></a> </p>
 
