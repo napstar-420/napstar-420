@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NuxtJS**
 
-- 👨‍💻 All of my projects are available at [khanzohaib.netlify.app](khanzohaib.netlify.app)
+- 👨‍💻 All of my projects are available at [khanzohaib.netlify.app](https://khanzohaib.netlify.app)
 
 - 💬 Ask me about **React and Vue**
 
