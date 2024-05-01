@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://twitter.com/zohaib_billa" target="blank"><img src="https://img.shields.io/twitter/follow/zohaib_billa?logo=twitter&style=for-the-badge" alt="zohaib_billa" /></a> </p>
 
-- 🔭 I’m currently working on [Heartbeat Photos](https://h.ki/photos/)
+- 🔭 I’m currently working on [Heartbeat](https://h.ki/)
 
 - 🌱 I’m currently learning **NuxtJS**
 
-- 👨‍💻 All of my projects are available at [khanzohaib.netlify.app](https://khanzohaib.netlify.app)
+- 👨‍💻 All of my projects are available at my [portfolio](https://zohaib.codes)
 
 - 💬 Ask me about **React and Vue**
 
